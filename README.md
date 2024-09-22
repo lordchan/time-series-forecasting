@@ -93,5 +93,4 @@ Feel free to explore the code and reach out for any questions or improvements!
 
 ---
 
-**Author**: [Your Name]  
-**Project URL**: [Link to the Project Repository]
+**Author**: [Chanakya G R]  
