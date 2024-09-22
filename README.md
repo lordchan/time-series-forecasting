@@ -93,4 +93,4 @@ Feel free to explore the code and reach out for any questions or improvements!
 
 ---
 
-**Author**: [Chanakya G R]  
+**Author**: Chanakya G R
