@@ -1,7 +1,7 @@
 # Time Series Forecasting
 
 ## Project Overview
-
+rttrtrt
 This project focuses on time series forecasting for Ad Ease, an ads and marketing company aimed at optimizing ad placements for their clients. The dataset contains daily view counts of 145k Wikipedia pages over 550 days, including pages in different languages and access types. The goal of this project is to forecast page views for different languages and optimize ad placement by predicting future trends in page views.
 
 The models applied in this project include ARIMA, SARIMA, SARIMAX, and Facebook Prophet, achieving a Mean Absolute Percentage Error (MAPE) of 6%. The project integrates an exogenous variable for English-language pages that identifies days with significant campaigns or events, further refining the forecast.
